@@ -1,10 +1,15 @@
-# Ignore model files
+# Ignore data & notebooks
+data/
+*.csv
+*.ipynb
+
+# Ignore models
 model/
 *.pkl
 
-# Ignore system files
+# System files
 .DS_Store
 
-# Ignore Python cache
+# Python cache
 __pycache__/
 *.pyc
