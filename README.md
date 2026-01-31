@@ -70,7 +70,7 @@ The Streamlit web application allows users to:
 ## Deployment
 The application is deployed using Streamlit Community Cloud.
 
-**Live App Link:** *(To be added after deployment)*
+**Live App Link:** https://mlassignment-k6o5wbah8oexiqtvdgqkws.streamlit.app
 
 ---
 
